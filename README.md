@@ -1,5 +1,6 @@
 # Spear-dodging-simulator
 Dodge spears
+
 Hello this is "Spear Dodging Simulator".
 You can move you character with arrow keys(<-, and ->).
 The score goes up if a spear(or bombs) reaches the end of the screen.
