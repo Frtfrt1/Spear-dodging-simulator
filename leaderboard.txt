@@ -1,0 +1,118 @@
+year : 2022, month : 7, day : 12, hour : 22, minute : 12, difficultly : 1, record : 68
+year : 2022, month : 7, day : 12, hour : 22, minute : 12, difficultly : 2, record : 66
+year : 2022, month : 7, day : 12, hour : 22, minute : 14, difficultly : 3, record : 117
+extracts collected : 2
+year : 2022, month : 7, day : 12, hour : 22, minute : 17, difficultly : 5, record : 58
+extracts collected : 3
+year : 2022, month : 7, day : 12, hour : 22, minute : 19, difficultly : 5, record : 30
+extracts collected : 0
+year : 2022, month : 7, day : 12, hour : 22, minute : 20, difficultly : 5, record : 88
+extracts collected : 2
+year : 2022, month : 7, day : 12, hour : 22, minute : 22, difficultly : 5, record : 65
+extracts collected : 4
+year : 2022, month : 7, day : 12, hour : 22, minute : 25, difficultly : 2, record : 453
+extracts collected : 32
+year : 2022, month : 7, day : 12, hour : 22, minute : 27, difficultly : 1, record : 409
+extracts collected : 8
+year : 2022, month : 7, day : 12, hour : 22, minute : 35, difficultly : 2, record : 268
+extracts collected : 7
+year : 2022, month : 7, day : 12, hour : 22, minute : 40, difficultly : 3, record : 83
+extracts collected : 0
+year : 2022, month : 7, day : 12, hour : 22, minute : 41, difficultly : 2, record : 73
+extracts collected : 2
+year : 2022, month : 7, day : 12, hour : 22, minute : 42, difficultly : 2, record : 2
+extracts collected : 0
+year : 2022, month : 7, day : 16, hour : 21, minute : 19, difficultly : 3, record : 259
+extracts collected : 3
+year : 2022, month : 7, day : 16, hour : 21, minute : 33, difficultly : 4, record : 49
+extracts collected : 3
+year : 2022, month : 7, day : 16, hour : 21, minute : 33, difficultly : 5, record : 41
+extracts collected : 0
+year : 2022, month : 7, day : 16, hour : 21, minute : 33, difficultly : 5, record : 43
+extracts collected : 0
+year : 2022, month : 7, day : 16, hour : 21, minute : 35, difficultly : 1, record : 306
+extracts collected : 2
+year : 2022, month : 7, day : 16, hour : 21, minute : 40, difficultly : 2, record : 19
+extracts collected : 1
+year : 2022, month : 7, day : 17, hour : 17, minute : 3, difficultly : 3, record : 102
+extracts collected : 1
+year : 2022, month : 7, day : 17, hour : 17, minute : 6, difficultly : 3, record : 533
+extracts collected : 8
+year : 2022, month : 7, day : 17, hour : [5, 'p.m.'], minute : 12, difficultly : 2, record : 1
+extracts collected : 0
+year : 2022, month : 7, day : 17, hour : [5, 'p.m.'], minute : 13, difficultly : 2, record : 1
+extracts collected : 0
+year : 2022, month : 7, day : 17, hour : ['5', 'p.m.'], minute : 15, difficultly : 2, record : 2
+extracts collected : 0
+year : 2022, month : 7, day : 17, hour : 5 p.m., minute : 16, difficultly : 2, record : 8
+extracts collected : 0
+year : 2022, month : 7, day : 17, hour : 5 p.m., minute : 31, difficultly : 2, record : 5
+extracts collected : 0
+year : 2022, month : 7, day : 17, hour : 5 p.m., minute : 39, difficultly : 2, record : 217
+extracts collected : 1
+year : 2022, month : 7, day : 17, hour : 5 p.m., minute : 41, difficultly : 3, record : 225
+extracts collected : 5
+year : 2022, month : 7, day : 17, hour : 5 p.m., minute : 42, difficultly : 3, record : 110
+extracts collected : 4
+year : 2022, month : 7, day : 17, hour : 5 p.m., minute : 43, difficultly : 3, record : 221
+extracts collected : 2
+year : 2022, month : 7, day : 20, hour : 10 p.m., minute : 36, difficultly : 2, record : 66
+extracts collected : 1
+year : 2022, month : 7, day : 23, hour : 9 p.m., minute : 9, difficultly : 2, record : 254
+extracts collected : 2
+year : 2022, month : 7, day : 23, hour : 9 p.m., minute : 10, difficultly : 3, record : 103
+extracts collected : 0
+year : 2022, month : 7, day : 23, hour : 9 p.m., minute : 10, difficultly : 5, record : 29
+extracts collected : 1
+year : 2022, month : 7, day : 23, hour : 9 p.m., minute : 14, difficultly : 4, record : 15
+extracts collected : 0
+year : 2022, month : 7, day : 23, hour : 9 p.m., minute : 15, difficultly : 1, record : 303
+extracts collected : 4
+year : 2022, month : 7, day : 23, hour : 9 p.m., minute : 15, difficultly : 2, record : 4
+extracts collected : 0
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 26, difficultly : 3, record : 20
+extracts collected : 1
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 26, difficultly : 3, record : 16
+extracts collected : 0
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 26, difficultly : 4, record : 61
+extracts collected : 0
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 27, difficultly : 5, record : 78
+extracts collected : 1
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 34, difficultly : 5, record : 37
+extracts collected : 0
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 34, difficultly : 4, record : 64
+extracts collected : 1
+year : 2022, month : 7, day : 24, hour : 9 a.m., minute : 44, difficultly : 5, record : 60
+extracts collected : 0
+year : 2022, month : 7, day : 24, hour : 5 p.m., minute : 15, difficultly : 5, record : 74
+extracts collected : 0
+year : 2022, month : 7, day : 25, hour : 9 p.m., minute : 27, difficultly : 4, record : 26
+extracts collected : 0
+year : 2022, month : 7, day : 27, hour : 9 a.m., minute : 47, difficultly : 5, record : 18
+extracts collected : 0
+year : 2022, month : 8, day : 2, hour : 1 p.m., minute : 3, difficultly : 5, record : 62
+extracts collected : 1
+year : 2022, month : 8, day : 2, hour : 1 p.m., minute : 3, difficultly : 5, record : 88
+extracts collected : 1
+year : 2022, month : 8, day : 2, hour : 1 p.m., minute : 7, difficultly : 4, record : 35
+extracts collected : 0
+year : 2022, month : 8, day : 2, hour : 1 p.m., minute : 7, difficultly : 4, record : 34
+extracts collected : 1
+year : 2022, month : 8, day : 2, hour : 1 p.m., minute : 7, difficultly : 5, record : 31
+extracts collected : 0
+year : 2022, month : 8, day : 2, hour : 1 p.m., minute : 9, difficultly : 5, record : 52
+extracts collected : 1
+year : 2022, month : 8, day : 4, hour : 9 p.m., minute : 19, difficultly : 4, record : 39
+extracts collected : 0
+year : 2022, month : 8, day : 6, hour : 8 a.m., minute : 52, difficultly : 5, record : 11
+extracts collected : 0
+year : 2022, month : 8, day : 12, hour : 1 p.m., minute : 51, difficultly : 4, record : 39
+extracts collected : 0
+year : 2022, month : 8, day : 12, hour : 1 p.m., minute : 52, difficultly : 4, record : 56
+extracts collected : 1
+year : 2022, month : 8, day : 12, hour : 1 p.m., minute : 52, difficultly : 4, record : 62
+extracts collected : 0
+year : 2022, month : 8, day : 12, hour : 1 p.m., minute : 53, difficultly : 4, record : 19
+extracts collected : 0
+year : 2022, month : 8, day : 12, hour : 1 p.m., minute : 55, difficultly : 1, record : 514
+extracts collected : 5
